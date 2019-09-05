@@ -6,3 +6,5 @@ Pass the class.
 Turn in all assignments on time.
 ## Goal 3
 Be on time.
+## Goal 4
+Understand the materials.
